@@ -1,10 +1,3 @@
-title: Thahura-Naaz-Shaik
-logo: /assets/img/Thahura.png
-description: Portfolio of projects done.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
-
 title: <p align="center"> Thahura Naaz Shaik </p>
 logo: /assets/img/Thahura.png
 
@@ -17,3 +10,6 @@ description:
   <br>   
   I'm currently learning ML and AI and looking forward to apply them in telecom/networking domain
   </p>
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
