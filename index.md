@@ -22,4 +22,4 @@ These are a list of my projects
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/thahura111/FraudDetection.git)
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="assets/img/fraud_detection.jpg"/></center>
