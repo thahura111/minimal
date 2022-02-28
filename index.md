@@ -13,7 +13,7 @@ These are a list of my projects
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/thahura111/AnalysisDesignAlgm_C.git)
 
-<center><img src="images/ada.jpg"/></center>
+<center><img src="images/algorithms.jpg"/></center>
 
 
 ## Machine learning
