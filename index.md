@@ -16,7 +16,7 @@ These are a list of my projects
 > <center><img src="assets/img/algorithms.jpg"/></center>
 
 
-</br>
+---
 ## Machine learning
 
 > Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorised financial activity. This may include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams and more.
@@ -24,3 +24,4 @@ These are a list of my projects
 > [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/thahura111/FraudDetection.git)
 
 > <center><img src="assets/img/fraud-detection.jpg"/></center>
+---
