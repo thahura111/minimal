@@ -1,5 +1,7 @@
 title: <p align="center"> Thahura Naaz Shaik </p>
-logo: /assets/img/Thahura.png
+logo: <img src="assets/img/Thahura.png" 
+     width="400" 
+     height="500" />
 description:
   <p align="center">
   <a href="https://www.linkedin.com/in/thahura-naaz-69a18a4/">LinkedIn</a> |
